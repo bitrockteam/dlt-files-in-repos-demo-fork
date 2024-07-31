@@ -1,4 +1,5 @@
 # This Python module contains functions that are used by the DLT pipeline
+# This is a comment added to test the git functionality
 from typing import List, Union, Optional
 
 import pyspark.sql.functions as F
